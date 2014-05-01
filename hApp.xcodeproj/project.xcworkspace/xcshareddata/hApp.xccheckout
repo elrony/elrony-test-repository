@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>018311DB-226D-4C40-93CA-D51BCF131600</string>
+	<key>IDESourceControlProjectName</key>
+	<string>hApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>317D4605-CB4B-45FB-8CFE-00D5B798CEF5</key>
+		<string>https://github.com/elrony/elrony-test-repository</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>hApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>317D4605-CB4B-45FB-8CFE-00D5B798CEF5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/elrony/elrony-test-repository</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>317D4605-CB4B-45FB-8CFE-00D5B798CEF5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>317D4605-CB4B-45FB-8CFE-00D5B798CEF5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>elrony-test-repository</string>
+		</dict>
+	</array>
+</dict>
+</plist>
